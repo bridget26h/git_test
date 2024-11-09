@@ -1,3 +1,5 @@
 # git_test
-"Hello Odin!" \n
+"Hello Odin!"
+
+
 "woooowww"
